@@ -1,4 +1,4 @@
-AppNetApp
-=========
+AppNetApp.net
+=============
 
-An App for App.Net
+Everybody needs an app for app.net... so... AppNetApp.net!
